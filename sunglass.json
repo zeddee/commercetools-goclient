@@ -1,0 +1,270 @@
+{
+  "limit": 1,
+  "offset": 0,
+  "count": 1,
+  "total": 8,
+  "results": [
+    {
+      "lastModifiedAt": "2019-03-06T13:05:32.656Z",
+      "createdAt": "2019-03-06T13:04:59.253Z",
+      "taxCategory": {
+        "typeId": "tax-category",
+        "id": "0cab8d42-c242-46b5-8e66-cd3d87403f9e"
+      },
+      "published": true,
+      "hasStagedChanges": false,
+      "searchKeywords": {},
+      "masterVariant": {
+        "attributes": [
+          {
+            "name": "articleNumberManufacturer",
+            "value": "AD06 VERDE VERDE"
+          },
+          {
+            "name": "articleNumberMax",
+            "value": "81968"
+          },
+          {
+            "name": "matrixId",
+            "value": "A0E2000000026FN"
+          },
+          {
+            "name": "baseId",
+            "value": "81968"
+          },
+          {
+            "name": "designer",
+            "value": {
+              "key": "spektre",
+              "label": "Spektre"
+            }
+          },
+          {
+            "name": "madeInItaly",
+            "value": {
+              "key": "yes",
+              "label": "yes"
+            }
+          },
+          {
+            "name": "commonSize",
+            "value": {
+              "key": "oneSize",
+              "label": "one Size"
+            }
+          },
+          {
+            "name": "size",
+            "value": "one size"
+          },
+          {
+            "name": "color",
+            "value": {
+              "key": "oliv",
+              "label": {
+                "it": "oliva",
+                "en": "oliv",
+                "de": "oliv"
+              }
+            }
+          },
+          {
+            "name": "colorFreeDefinition",
+            "value": {
+              "en": "olive",
+              "de": "oliv"
+            }
+          },
+          {
+            "name": "style",
+            "value": {
+              "key": "sporty",
+              "label": "sporty"
+            }
+          },
+          {
+            "name": "gender",
+            "value": {
+              "key": "women",
+              "label": "Damen"
+            }
+          },
+          {
+            "name": "season",
+            "value": "s15"
+          }
+        ],
+        "assets": [],
+        "images": [
+          {
+            "url": "https://s3-eu-west-1.amazonaws.com/commercetools-maximilian/products/081968_1_medium.jpg",
+            "dimensions": {
+              "w": 0,
+              "h": 0
+            }
+          }
+        ],
+        "prices": [
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 17500,
+              "fractionDigits": 2
+            },
+            "id": "afe7c018-ae08-4f8f-8b81-729b98f64634"
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 11475,
+              "fractionDigits": 2
+            },
+            "id": "fa8c4815-23d1-4af2-98d4-1864886c5303",
+            "customerGroup": {
+              "typeId": "customer-group",
+              "id": "e983d7ea-7527-42ba-b797-45a9ebc032fe"
+            }
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 14000,
+              "fractionDigits": 2
+            },
+            "id": "14bcb739-e478-42d8-9294-74297d26df07",
+            "country": "DE"
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 14000,
+              "fractionDigits": 2
+            },
+            "id": "abc28f2f-f085-483e-9711-1f455b18f214",
+            "country": "IT"
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 14000,
+              "fractionDigits": 2
+            },
+            "id": "ce58fbf8-8063-4b80-bc81-e80d8b9f6b26",
+            "country": "GB"
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 13160,
+              "fractionDigits": 2
+            },
+            "id": "1b759dc6-2b15-4b2d-b0e1-0780ad48bb50",
+            "country": "DE",
+            "channel": {
+              "typeId": "channel",
+              "id": "ed376caa-b515-4acb-ba87-dc4c13bc87ee"
+            }
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 18725,
+              "fractionDigits": 2
+            },
+            "id": "03dd10e1-bf05-47bd-9e1d-a99cd8ef6860",
+            "channel": {
+              "typeId": "channel",
+              "id": "f279cef9-14b2-4573-8d62-f8ea5edffa2d"
+            }
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 13580,
+              "fractionDigits": 2
+            },
+            "id": "33f4502b-9d87-495b-91a7-b9ffa142dd7e",
+            "country": "DE",
+            "channel": {
+              "typeId": "channel",
+              "id": "c2e7cd58-ac9c-44a8-b7ef-8f4c8b0806d3"
+            }
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 13580,
+              "fractionDigits": 2
+            },
+            "id": "5c74b18e-6468-4e42-bb09-644263762464",
+            "country": "DE",
+            "channel": {
+              "typeId": "channel",
+              "id": "d4c43cd0-7deb-4e10-b7c7-00e509009fe7"
+            }
+          },
+          {
+            "value": {
+              "type": "centPrecision",
+              "currencyCode": "EUR",
+              "centAmount": 14420,
+              "fractionDigits": 2
+            },
+            "id": "bb9f8272-acf3-4f4d-8d65-fa0088d24adb",
+            "country": "DE",
+            "channel": {
+              "typeId": "channel",
+              "id": "8f8df7d2-abdf-48b6-9a16-4376474349b1"
+            }
+          }
+        ],
+        "sku": "A0E2000000026FN",
+        "id": 1
+      },
+      "variants": [],
+      "slug": {
+        "en": "Spektre-sunglasses-AD06-olive",
+        "de": "Spektre-sonnenbrille-AD06-oliv"
+      },
+      "categoryOrderHints": {},
+      "categories": [
+        {
+          "typeId": "category",
+          "id": "ee6eecca-81ed-448b-94ed-ad7732981558"
+        },
+        {
+          "typeId": "category",
+          "id": "1226809b-5ce8-4bd6-8716-e859445682dc"
+        },
+        {
+          "typeId": "category",
+          "id": "d4f9cd2e-687f-44c0-957e-fe57be06b127"
+        },
+        {
+          "typeId": "category",
+          "id": "f7327702-81d2-4588-96e8-db53620c4998"
+        }
+      ],
+      "name": {
+        "en": "Sunglasses Spektre olive",
+        "de": "Sonnenbrille Spektre oliv"
+      },
+      "productType": {
+        "typeId": "product-type",
+        "id": "e819cbed-5760-4c80-b809-0d3f66cd5764"
+      },
+      "version": 2,
+      "id": "c5b5e72a-b3ec-4db7-a0e6-60869058a97a"
+    }
+  ],
+  "facets": {}
+}
